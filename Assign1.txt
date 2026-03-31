@@ -1,0 +1,61 @@
+1)
+java is a high level object oriented computer language.
+
+2)
+Java is platform independent.
+
+3)
+Jvm is java virtual m/c
+
+4)
+Jdk stands for java development kit and java run time environment
+
+5)
+java converts it source code into byte code and byte code is platform independent
+
+6)
+class is blue print for object
+
+7)
+System.out.println() is used to give o/p on screen
+
+8)
+data types in java are types for variable
+
+9)
+int,char,float,double,byte , short are primitive data type
+
+10)
+variable is used to allocate the data of primitive or user defined data types
+
+11)
+we declare a variable like eg- datatype variable name
+
+12)
+int stores the realno whereas float stores point decimal number
+
+13)
+type casting means converting one data type to another datatype
+
+14)
+default value of int is zero
+
+15)
+keyword in java is reserved word which have already predefined meaning in language 
+
+16)
+keywords can not be redefined
+
+17)
+= assignment operator and == means equal equal to used for comparison
+
+18)
+if statement is conditional statement will execute only when given condition is satisfied
+
+19)
+if is single conditional statement and switch is multiple conditional statement
+
+20)
+loop is a syntatical feature which allows to repeat task within given particual scope
+
+
